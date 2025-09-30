@@ -2,7 +2,7 @@
 
 ---
 
-Last Updated: 17/05/2022
+Last Reviewed: 30/09/2025 | Last Updated: 17/05/2022
 
 This Privacy Policy explains how your data is collected and used by the owner of Coffee Bot ("our", "we"). By using our Service, you agree with this Policy.
 
@@ -13,4 +13,3 @@ This Privacy Policy explains how your data is collected and used by the owner of
 - Coffee Bot stores command history that is only accessible to the bot owner.
 
 This data is deletable upon request (join our Support Server).
-

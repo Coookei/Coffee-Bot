@@ -2,7 +2,7 @@
 
 ---
 
-Last Updated: 17/05/2022
+Last Reviewed: 30/09/2025 | Last Updated: 17/05/2022
 
 These Terms of Service are a legal agreement between the owner of Coffee Bot (“we”, “us”, or “our”) and you (“you”, “User”, or “your”). By using Coffee Bot, the “Service”, you agree to be bound by
 these Terms, all applicable laws and regulations, and agree that you are responsible to comply with all applicable local laws and regulations.
